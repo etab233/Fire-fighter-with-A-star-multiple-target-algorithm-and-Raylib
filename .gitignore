@@ -1,0 +1,1 @@
+-e "*.exe\n*.o\n*.out\n*.dll\n*.so\n*.dylib\n*.obj\n*.class\nbin/\ndebug/\nrelease/\nbuild/\n.vscode/\n*.code-workspace\n.DS_Store" 

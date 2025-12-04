@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.hpp": "cpp",
+        "*.h": "cpp",
+        "iostream": "cpp",
+        "queue": "cpp",
+        "stdexcept": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
