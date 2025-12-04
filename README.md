@@ -21,6 +21,9 @@ Interactive fire truck: Detailed vehicle with wheels, lights, and body details
 
 Intuitive UI: Well-organized information display and controls
 
+<img width="496" height="601" alt="Screenshot (703)" src="https://github.com/user-attachments/assets/dcee0604-a2d1-41ea-a9a3-39fdce947607" />
+
+
 ### Game Mechanics
 Water resource management: Strategic use of water to extinguish fires
 
